@@ -2,7 +2,15 @@
 
 A implementation of Mastermind game to the command line.
 
-<b>(image)</b>
+<p align="center">
+  <img src="assets/example.PNG" width="650px"/></br>
+  <b>Some input formats accepted</b>
+</p>
+
+<p align="center">
+  <img src="assets/example2.PNG" width="650px"/></br>
+  <b>Input validation</b>
+</p>  
 
 ## Rules
 1. Each color is represented by only one digit, so the game can have 9 colors at most (0 not allowed).
@@ -18,20 +26,28 @@ You can custom the following properties:
 ## Including the game into your terminal (Windows)
 1. Download this repository ZIP file
 
-<b>(image)</b>
+<p align="center">
+  <img src="assets/download-zip.PNG"/>
+</p>  
 
 1. Press <b>Windows+R</b>, type <b>C:\Windows</b> and press <b>Enter</b>.
 
-<b>(image)</b>
+<p align="center">
+  <img src="assets/open-directory.PNG"/>
+</p>
 
 1. Put the <b>.exe</b> file (inside of the ZIP) in the current directory.
 
-<b>(image)</b>
+<p align="center">
+  <img src="assets/move-file.PNG" width="650px"/>
+</p>
 
 1. Open the terminal and type "<b>mastermind</b>". Press <b>Enter</b>.
 
-<b>(image)</b>
+<p align="center">
+  <img src="assets/test.PNG"/>
+</p>
 
 ## See more
-### How to create executable Python scripts
+### How to convert .py to .exe? (Step by step guide)
 https://dev.to/eshleron/how-to-convert-py-to-exe-step-by-step-guide-3cfi
