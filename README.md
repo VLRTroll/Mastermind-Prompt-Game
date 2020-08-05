@@ -30,19 +30,19 @@ You can custom the following properties:
   <img src="assets/download-zip.PNG"/>
 </p>  
 
-1. Press <b>Windows+R</b>, type <b>C:\Windows</b> and press <b>Enter</b>.
+2. Press <b>Windows+R</b>, type <b>C:\Windows</b> and press <b>Enter</b>.
 
 <p align="center">
   <img src="assets/open-directory.PNG"/>
 </p>
 
-1. Put the <b>.exe</b> file (inside of the ZIP) in the current directory.
+3. Put the <b>.exe</b> file (inside of the ZIP) in the current directory.
 
 <p align="center">
   <img src="assets/move-file.PNG" width="650px"/>
 </p>
 
-1. Open the terminal and type "<b>mastermind</b>". Press <b>Enter</b>.
+4. Open the terminal and type "<b>mastermind</b>". Press <b>Enter</b>.
 
 <p align="center">
   <img src="assets/test.PNG"/>
